@@ -1,0 +1,31 @@
+﻿<Advertisements>
+  <Ad>
+    <ImageUrl>images/images6.jpg</ImageUrl>
+    <NavigateUrl>www.google.com</NavigateUrl>
+    <AlternateText>image fails</AlternateText>
+    <Impressions>50</Impressions>
+    
+  </Ad>
+  <Ad>
+    <ImageUrl>images/images8.jpg</ImageUrl>
+    <NavigateUrl>www.google.com</NavigateUrl>
+    <AlternateText>image fails</AlternateText>
+    <Impressions>50</Impressions>
+
+  </Ad>
+  <Ad>
+    <ImageUrl>images/images2.jpg</ImageUrl>
+    <NavigateUrl>www.google.com</NavigateUrl>
+    <AlternateText>image fails</AlternateText>
+    <Impressions>50</Impressions>
+
+  </Ad>
+  <Ad>
+    <ImageUrl>images/images1.jpg</ImageUrl>
+    <NavigateUrl>www.google.com</NavigateUrl>
+    <AlternateText>image fails</AlternateText>
+    <Impressions>50</Impressions>
+
+  </Ad>
+  
+</Advertisements>
